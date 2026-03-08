@@ -1,0 +1,26 @@
+{
+  "patient_id": "P008",
+  "name": "Friedrich Braun",
+  "age": 72,
+  "gender": "Male",
+  "heart_rate": 62,
+  "blood_pressure_systolic": 160,
+  "blood_pressure_diastolic": 100,
+  "sleep_hours": 6.5,
+  "daily_steps": 2500,
+  "stress_level": 4,
+  "bmi": 25.3,
+  "blood_glucose": 120,
+  "medical_history": [
+    "Coronary artery disease",
+    "Hyperlipidemia",
+    "Hypertension"
+  ],
+  "medication": [
+    "Aspirin 81mg",
+    "Atorvastatin 20mg",
+    "Metoprolol 50mg"
+  ],
+  "smoking": false,
+  "alcohol_consumption": "None"
+}

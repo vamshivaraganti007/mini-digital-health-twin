@@ -1,0 +1,22 @@
+{
+  "patient_id": "P001",
+  "name": "Anna Mueller",
+  "age": 34,
+  "gender": "Female",
+  "heart_rate": 72,
+  "blood_pressure_systolic": 118,
+  "blood_pressure_diastolic": 76,
+  "sleep_hours": 7.5,
+  "daily_steps": 8500,
+  "stress_level": 3,
+  "bmi": 22.1,
+  "blood_glucose": 95,
+  "medical_history": [
+    "Seasonal allergies"
+  ],
+  "medication": [
+    "Cetirizine 10mg"
+  ],
+  "smoking": false,
+  "alcohol_consumption": "Occasional"
+}

@@ -1,0 +1,22 @@
+{
+  "patient_id": "P006",
+  "name": "Jonas Hoffmann",
+  "age": 41,
+  "gender": "Male",
+  "heart_rate": 95,
+  "blood_pressure_systolic": 130,
+  "blood_pressure_diastolic": 85,
+  "sleep_hours": 5.5,
+  "daily_steps": 5500,
+  "stress_level": 7,
+  "bmi": 27.9,
+  "blood_glucose": 105,
+  "medical_history": [
+    "Mild asthma"
+  ],
+  "medication": [
+    "Salbutamol inhaler PRN"
+  ],
+  "smoking": false,
+  "alcohol_consumption": "Moderate"
+}

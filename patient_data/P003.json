@@ -1,0 +1,24 @@
+{
+  "patient_id": "P003",
+  "name": "Sophie Fischer",
+  "age": 45,
+  "gender": "Female",
+  "heart_rate": 110,
+  "blood_pressure_systolic": 150,
+  "blood_pressure_diastolic": 95,
+  "sleep_hours": 4.5,
+  "daily_steps": 2800,
+  "stress_level": 9,
+  "bmi": 31.2,
+  "blood_glucose": 142,
+  "medical_history": [
+    "Hypertension",
+    "Anxiety disorder"
+  ],
+  "medication": [
+    "Amlodipine 5mg",
+    "Alprazolam 0.5mg"
+  ],
+  "smoking": true,
+  "alcohol_consumption": "Rare"
+}

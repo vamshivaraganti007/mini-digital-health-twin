@@ -1,0 +1,230 @@
+[
+  {
+    "patient_id": "P001",
+    "name": "Anna Mueller",
+    "age": 34,
+    "gender": "Female",
+    "heart_rate": 72,
+    "blood_pressure_systolic": 118,
+    "blood_pressure_diastolic": 76,
+    "sleep_hours": 7.5,
+    "daily_steps": 8500,
+    "stress_level": 3,
+    "bmi": 22.1,
+    "blood_glucose": 95,
+    "medical_history": [
+      "Seasonal allergies"
+    ],
+    "medication": [
+      "Cetirizine 10mg"
+    ],
+    "smoking": false,
+    "alcohol_consumption": "Occasional"
+  },
+  {
+    "patient_id": "P002",
+    "name": "Thomas Berger",
+    "age": 58,
+    "gender": "Male",
+    "heart_rate": 88,
+    "blood_pressure_systolic": 145,
+    "blood_pressure_diastolic": 92,
+    "sleep_hours": 5.0,
+    "daily_steps": 3200,
+    "stress_level": 8,
+    "bmi": 29.4,
+    "blood_glucose": 135,
+    "medical_history": [
+      "Type 2 Diabetes",
+      "Hypertension"
+    ],
+    "medication": [
+      "Metformin 500mg",
+      "Lisinopril 10mg"
+    ],
+    "smoking": false,
+    "alcohol_consumption": "Moderate"
+  },
+  {
+    "patient_id": "P003",
+    "name": "Sophie Fischer",
+    "age": 45,
+    "gender": "Female",
+    "heart_rate": 110,
+    "blood_pressure_systolic": 150,
+    "blood_pressure_diastolic": 95,
+    "sleep_hours": 4.5,
+    "daily_steps": 2800,
+    "stress_level": 9,
+    "bmi": 31.2,
+    "blood_glucose": 142,
+    "medical_history": [
+      "Hypertension",
+      "Anxiety disorder"
+    ],
+    "medication": [
+      "Amlodipine 5mg",
+      "Alprazolam 0.5mg"
+    ],
+    "smoking": true,
+    "alcohol_consumption": "Rare"
+  },
+  {
+    "patient_id": "P004",
+    "name": "Markus Weber",
+    "age": 29,
+    "gender": "Male",
+    "heart_rate": 65,
+    "blood_pressure_systolic": 115,
+    "blood_pressure_diastolic": 72,
+    "sleep_hours": 8.0,
+    "daily_steps": 12000,
+    "stress_level": 2,
+    "bmi": 21.5,
+    "blood_glucose": 88,
+    "medical_history": [],
+    "medication": [],
+    "smoking": false,
+    "alcohol_consumption": "Occasional"
+  },
+  {
+    "patient_id": "P005",
+    "name": "Elena Schneider",
+    "age": 67,
+    "gender": "Female",
+    "heart_rate": 78,
+    "blood_pressure_systolic": 155,
+    "blood_pressure_diastolic": 98,
+    "sleep_hours": 6.0,
+    "daily_steps": 4100,
+    "stress_level": 5,
+    "bmi": 26.8,
+    "blood_glucose": 110,
+    "medical_history": [
+      "Osteoarthritis",
+      "Hypertension"
+    ],
+    "medication": [
+      "Losartan 50mg",
+      "Ibuprofen 400mg PRN"
+    ],
+    "smoking": false,
+    "alcohol_consumption": "Rare"
+  },
+  {
+    "patient_id": "P006",
+    "name": "Jonas Hoffmann",
+    "age": 41,
+    "gender": "Male",
+    "heart_rate": 95,
+    "blood_pressure_systolic": 130,
+    "blood_pressure_diastolic": 85,
+    "sleep_hours": 5.5,
+    "daily_steps": 5500,
+    "stress_level": 7,
+    "bmi": 27.9,
+    "blood_glucose": 105,
+    "medical_history": [
+      "Mild asthma"
+    ],
+    "medication": [
+      "Salbutamol inhaler PRN"
+    ],
+    "smoking": false,
+    "alcohol_consumption": "Moderate"
+  },
+  {
+    "patient_id": "P007",
+    "name": "Laura Klein",
+    "age": 23,
+    "gender": "Female",
+    "heart_rate": 130,
+    "blood_pressure_systolic": 105,
+    "blood_pressure_diastolic": 65,
+    "sleep_hours": 4.0,
+    "daily_steps": 15000,
+    "stress_level": 6,
+    "bmi": 19.2,
+    "blood_glucose": 80,
+    "medical_history": [
+      "Iron deficiency anemia"
+    ],
+    "medication": [
+      "Ferrous sulfate 325mg"
+    ],
+    "smoking": false,
+    "alcohol_consumption": "Occasional"
+  },
+  {
+    "patient_id": "P008",
+    "name": "Friedrich Braun",
+    "age": 72,
+    "gender": "Male",
+    "heart_rate": 62,
+    "blood_pressure_systolic": 160,
+    "blood_pressure_diastolic": 100,
+    "sleep_hours": 6.5,
+    "daily_steps": 2500,
+    "stress_level": 4,
+    "bmi": 25.3,
+    "blood_glucose": 120,
+    "medical_history": [
+      "Coronary artery disease",
+      "Hyperlipidemia",
+      "Hypertension"
+    ],
+    "medication": [
+      "Aspirin 81mg",
+      "Atorvastatin 20mg",
+      "Metoprolol 50mg"
+    ],
+    "smoking": false,
+    "alcohol_consumption": "None"
+  },
+  {
+    "patient_id": "P009",
+    "name": "Maria Wagner",
+    "age": 51,
+    "gender": "Female",
+    "heart_rate": 74,
+    "blood_pressure_systolic": 122,
+    "blood_pressure_diastolic": 78,
+    "sleep_hours": 7.0,
+    "daily_steps": 7200,
+    "stress_level": 4,
+    "bmi": 24.1,
+    "blood_glucose": 98,
+    "medical_history": [
+      "Hypothyroidism"
+    ],
+    "medication": [
+      "Levothyroxine 50mcg"
+    ],
+    "smoking": false,
+    "alcohol_consumption": "Occasional"
+  },
+  {
+    "patient_id": "P010",
+    "name": "Karl Zimmermann",
+    "age": 38,
+    "gender": "Male",
+    "heart_rate": 102,
+    "blood_pressure_systolic": 138,
+    "blood_pressure_diastolic": 88,
+    "sleep_hours": 4.5,
+    "daily_steps": 3000,
+    "stress_level": 9,
+    "bmi": 32.5,
+    "blood_glucose": 148,
+    "medical_history": [
+      "Obesity",
+      "Pre-diabetes",
+      "Sleep apnea"
+    ],
+    "medication": [
+      "CPAP therapy"
+    ],
+    "smoking": true,
+    "alcohol_consumption": "Frequent"
+  }
+]

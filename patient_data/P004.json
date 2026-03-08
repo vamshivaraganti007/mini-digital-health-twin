@@ -1,0 +1,18 @@
+{
+  "patient_id": "P004",
+  "name": "Markus Weber",
+  "age": 29,
+  "gender": "Male",
+  "heart_rate": 65,
+  "blood_pressure_systolic": 115,
+  "blood_pressure_diastolic": 72,
+  "sleep_hours": 8.0,
+  "daily_steps": 12000,
+  "stress_level": 2,
+  "bmi": 21.5,
+  "blood_glucose": 88,
+  "medical_history": [],
+  "medication": [],
+  "smoking": false,
+  "alcohol_consumption": "Occasional"
+}

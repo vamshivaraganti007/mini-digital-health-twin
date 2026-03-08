@@ -1,0 +1,22 @@
+{
+  "patient_id": "P009",
+  "name": "Maria Wagner",
+  "age": 51,
+  "gender": "Female",
+  "heart_rate": 74,
+  "blood_pressure_systolic": 122,
+  "blood_pressure_diastolic": 78,
+  "sleep_hours": 7.0,
+  "daily_steps": 7200,
+  "stress_level": 4,
+  "bmi": 24.1,
+  "blood_glucose": 98,
+  "medical_history": [
+    "Hypothyroidism"
+  ],
+  "medication": [
+    "Levothyroxine 50mcg"
+  ],
+  "smoking": false,
+  "alcohol_consumption": "Occasional"
+}

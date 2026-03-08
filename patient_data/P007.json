@@ -1,0 +1,22 @@
+{
+  "patient_id": "P007",
+  "name": "Laura Klein",
+  "age": 23,
+  "gender": "Female",
+  "heart_rate": 130,
+  "blood_pressure_systolic": 105,
+  "blood_pressure_diastolic": 65,
+  "sleep_hours": 4.0,
+  "daily_steps": 15000,
+  "stress_level": 6,
+  "bmi": 19.2,
+  "blood_glucose": 80,
+  "medical_history": [
+    "Iron deficiency anemia"
+  ],
+  "medication": [
+    "Ferrous sulfate 325mg"
+  ],
+  "smoking": false,
+  "alcohol_consumption": "Occasional"
+}

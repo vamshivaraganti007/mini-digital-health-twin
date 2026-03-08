@@ -1,0 +1,24 @@
+{
+  "patient_id": "P005",
+  "name": "Elena Schneider",
+  "age": 67,
+  "gender": "Female",
+  "heart_rate": 78,
+  "blood_pressure_systolic": 155,
+  "blood_pressure_diastolic": 98,
+  "sleep_hours": 6.0,
+  "daily_steps": 4100,
+  "stress_level": 5,
+  "bmi": 26.8,
+  "blood_glucose": 110,
+  "medical_history": [
+    "Osteoarthritis",
+    "Hypertension"
+  ],
+  "medication": [
+    "Losartan 50mg",
+    "Ibuprofen 400mg PRN"
+  ],
+  "smoking": false,
+  "alcohol_consumption": "Rare"
+}

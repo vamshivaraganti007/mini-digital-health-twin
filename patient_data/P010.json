@@ -1,0 +1,24 @@
+{
+  "patient_id": "P010",
+  "name": "Karl Zimmermann",
+  "age": 38,
+  "gender": "Male",
+  "heart_rate": 102,
+  "blood_pressure_systolic": 138,
+  "blood_pressure_diastolic": 88,
+  "sleep_hours": 4.5,
+  "daily_steps": 3000,
+  "stress_level": 9,
+  "bmi": 32.5,
+  "blood_glucose": 148,
+  "medical_history": [
+    "Obesity",
+    "Pre-diabetes",
+    "Sleep apnea"
+  ],
+  "medication": [
+    "CPAP therapy"
+  ],
+  "smoking": true,
+  "alcohol_consumption": "Frequent"
+}
