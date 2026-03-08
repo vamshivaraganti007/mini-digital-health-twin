@@ -654,7 +654,6 @@ def main():
         **Author:** Varaganti Vamshi
         **Program:** M.Sc. Industrial Artificial Intelligence
         **University:** Hochschule Albstadt-Sigmaringen
-        **Assessment:** HOPn Technical Assessment — Prof. Dr. Ahmed Ebada
         """)
 
 
